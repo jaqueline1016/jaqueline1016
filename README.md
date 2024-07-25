@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jaqueline1016
+- 👀 I'm interested in software development and web design.
+- 🌱 I´m currently learning Java and Python.
+- 📫 How to reach me ...
+- ⚡ Fun fact:I love watching movies and series.
