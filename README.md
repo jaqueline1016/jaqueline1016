@@ -53,16 +53,22 @@ My contributions focused on software development and team collaboration.
 
 ---
 
-### TrackFlow HUB (Collaborative Project)
+### TrackFlow HUB *(Private Collaborative Project)*
 
-University team project where I contributed to backend development.
+A university team project focused on developing a transportation service management platform.
 
-My work included implementing features related to:
+**Role:** Backend Developer (Team Member)
 
-- Company profile management
-- Reports module
-- Coupon management
-- REST API development
+**Main Contributions**
+
+- Designed and implemented backend features for the Transport Companies module.
+- Developed REST API endpoints using Django.
+- Implemented Company Profile Management.
+- Developed the Reports Management module.
+- Collaborated using Git feature branches and pull requests.
+- Worked with SQL Server database integration.
+
+> **Note:** The source code is currently private because it belongs to the project team. A technical case study describing the project architecture and my contributions will be published separately.
 
 ---
 
