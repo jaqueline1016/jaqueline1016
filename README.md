@@ -86,6 +86,6 @@ I'm looking for an opportunity as a **Junior Backend Software Engineer**, where 
 
 GitHub: **@jaqueline1016**
 
-LinkedIn: *(Coming soon)*
+LinkedIn: *www.linkedin.com/in/jaqueline-calanche*
 
-Email: *(Add your professional email here)*
+Email: *calanchejaqueline@gmail.com*
