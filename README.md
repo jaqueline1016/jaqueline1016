@@ -88,4 +88,3 @@ GitHub: **@jaqueline1016**
 
 LinkedIn: *www.linkedin.com/in/jaqueline-calanche*
 
-Email: *calanchejaqueline@gmail.com*
