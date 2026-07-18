@@ -53,22 +53,18 @@ My contributions focused on software development and team collaboration.
 
 ---
 
-### TrackFlow HUB *(Private Collaborative Project)*
+### TrackFlow HUB *(Technical Case Study)*
 
-A university team project focused on developing a transportation service management platform.
+A collaborative university project focused on a transportation service management platform. To respect the privacy of the original source code, I created a comprehensive technical case study documenting my architectural decisions and backend implementations.
 
-**Role:** Backend Developer (Team Member)
+**Role:** Backend Developer
 
-**Main Contributions**
+**Main Contributions:**
+- Designed REST API endpoints using Django REST Framework.
+- Managed relational database integration  using SQL Server.
+- Containerized the application environment using Docker and Docker Compose.
+- Collaborated using Gitflow, managing feature branches and pull requests.
 
-- Designed and implemented backend features for the Transport Companies module.
-- Developed REST API endpoints using Django.
-- Implemented Company Profile Management.
-- Developed the Reports Management module.
-- Collaborated using Git feature branches and pull requests.
-- Worked with SQL Server database integration.
-
-> **Note:** The source code is currently private because it belongs to the project team. A technical case study describing the project architecture and my contributions will be published separately.
 
 ---
 
